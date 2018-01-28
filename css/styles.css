@@ -1,0 +1,246 @@
+#comentHelpText {
+	padding: 0;
+	margin-left: 4rem;
+}
+
+iframe {
+	width: 100%;
+	margin-top: 1rem;
+}
+
+/* ------------- Estilos Páginas Boostrap ------------- */
+
+.body-index {
+	background: url('../images/index-background.png') no-repeat center;
+	background-size: cover;
+}
+
+.body-musica {
+	background: url('../images/body-musica.jpg') no-repeat center;
+	background-size: cover;
+	
+}
+
+.header-boostrap {
+	padding: 0;
+}
+
+.logo-blog {
+	width: 100%;
+}
+
+.social-icons-blue a i {
+	padding-top: 4.5rem;
+	margin: 5px;
+	font-size: 2rem;	
+	color: blue;
+}
+
+.social-icons-white a i {
+	padding-top: 4.5rem;
+	margin: 5px;
+	font-size: 2rem;	
+	color: white;
+}
+
+.title {
+	font-size: 3rem;
+}
+
+.seccion a {
+	color: white;
+	text-decoration: none;
+}
+
+.seccion p {
+	padding: 1rem;
+}
+
+.contenido-musica {
+	padding: 0;
+}
+
+.articulo {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.columna-central {
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+}
+
+.articulo {
+	padding: 1rem;
+}
+
+.music-card {
+	padding: 0;
+}
+
+.icon-coment {
+	font-size: 5rem;
+}
+
+.container {
+	margin: 0;
+}
+
+.buscador {
+	padding: 0 0 0 1rem;
+}
+
+.buscador-container {
+	padding: 0;
+}
+
+.footer-boostrap {
+	display: inline-block;
+	min-height: 100px;
+}
+
+.footer-boostrap p {
+	height: 100px;
+	line-height: 120px;
+}
+
+/* ------------- Estilos Páginas Foundation ------------- */
+
+.header-foundation {
+	width: 80%;
+	margin: 0 auto 2rem;
+	background: #90A4E8;
+}
+
+.page-title {
+	height: 7.5rem;
+	line-height: 7.5rem;
+}
+
+.body-gastronomia {
+	background: url("../images/body-gastronomia.jpg") no-repeat center;
+	background-size: cover;
+	color: white;
+}
+
+.contenido-gastronomia {
+	width: 80%;
+	margin: auto;
+}
+
+.buscador-gastronomia {
+	padding: 1rem;
+	background: rgba(193,66,66,0.5);
+	margin-bottom: 1rem;
+}
+
+.favorite-img {
+	padding: 0.25rem;
+}
+
+.historial-table {
+	color: black;
+	font-size: 0.9rem;
+}
+
+.publicaciones-gastronomia {
+	padding: 1rem;
+	background: rgba(193,66,66,0.5);
+}
+
+.p-receta {
+	padding: 0;
+}
+
+.gastronomia-img {
+	width:100%;
+	padding: 0;
+	margin: 0;
+}
+
+.gastronomia-fig {
+	padding: 0;
+}
+
+.publicacion-title {
+	padding: 0 1rem;
+}
+
+.coment-icon-gastronomia {
+	text-align: center;
+	font-size: 3rem;
+}
+
+.p-button-publicar {
+	padding-top: 0;
+	padding-right: 0;
+}
+
+.coment-avatar {
+	width: 3rem;
+}
+
+.gastronomia-a {
+	color: white;
+}
+
+.footer-foundation {
+	width: 80%;
+	height: 100px;
+	margin: 2rem auto;
+}
+
+.footer-foundation p {
+	height: 100px;
+	line-height: 100px;
+	background: #0DFF74;	
+}
+
+/* ------------- Estilos Páginas Materialize ------------- */
+
+.header-materialize {
+	width: 80%;
+	margin: 0 auto 1rem;
+}
+
+.logo-turismo {
+	width: 100%;
+}
+
+.body-turismo {
+	background: url("../images/turismo.jpg") no-repeat center;
+	background-size: cover;
+	color: white;
+}
+
+.contenido-turismo {
+	width: 80%;
+	margin: auto;
+	background: rgba(255,255,255,0.3);
+}
+
+.social-network-icon {
+	margin: 2rem 0;
+}
+
+#pictures-container {
+	padding: 1rem;
+}
+
+.publicacion {
+	color: black;
+}
+
+.coment-p {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.perfil-img {
+	border: 1px solid white;
+}
+
+.page-footer {
+	width: 80%;
+	margin: 1rem auto;
+}
